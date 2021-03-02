@@ -1,2 +1,2 @@
 # ServerDrivenUI
-Repositório de POCs e referências referentes a ServerDrivenUI em Android usando Beagle 
+Repositório de POCs e referências dedicadas a ServerDrivenUI em Android usando Beagle 
